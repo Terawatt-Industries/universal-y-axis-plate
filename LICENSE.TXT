@@ -1,0 +1,3 @@
+Universal Y-Axis Plate by Longevity Software LLC d.b.a. Terawatt Industries is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+Based on a work by Terawatt Industries at https://bitbucket.org/terawattindustries/universal-y-axis-plate/src.
+Permissions beyond the scope of this license may be available at http://terawattindustries.com.
